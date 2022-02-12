@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Go:project xmlns:Go="http://maven.apache.org/POM/4.0.0"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <Go:modelVersion>4.0.0</Go:modelVersion>
+
+    <Go:groupId>org.example</Go:groupId>
+    <Go:artifactId>Home 11</Go:artifactId>
+    <Go:version>1.0-SNAPSHOT</Go:version>
+
+    <Go:properties>
+        <Go:maven.compiler.source>8</Go:maven.compiler.source>
+        <Go:maven.compiler.target>8</Go:maven.compiler.target>
+    </Go:properties>
+
+</Go:project>
